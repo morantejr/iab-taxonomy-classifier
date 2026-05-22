@@ -75,7 +75,3 @@ iab-taxonomy-classifier/
     iab_stopwords.txt       # Stopwords list
     (generated files)       # Created by prepare_iab_data.py and taxonomy_iab.py
 ```
-
-## License
-
-MIT
