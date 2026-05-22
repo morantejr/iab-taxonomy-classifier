@@ -1,0 +1,398 @@
+Automotive	|	Automotive	|	1
+Auto Body Styles	|	Automotive	|	2
+Auto Type	|	Automotive	|	2
+Budget Cars	|	Automotive	|	2
+Certified Pre-Owned	|	Automotive	|	2
+Car Culture	|	Automotive	|	2
+Dash Cam Videos	|	Automotive	|	2
+Electric Vehicles	|	Automotive	|	2
+Luxury Cars	|	Automotive	|	2
+Motorcycles	|	Automotive	|	2
+Off-Road Vehicles	|	Automotive	|	2
+Performance Cars	|	Automotive	|	2
+Scooters	|	Automotive	|	2
+SUVs	|	Automotive	|	2
+Trucks	|	Automotive	|	2
+Vintage Cars	|	Automotive	|	2
+Business	|	Business	|	1
+Advertising	|	Business	|	2
+Agriculture	|	Business	|	2
+Biotech	|	Business	|	2
+Business Software	|	Business	|	2
+Construction	|	Business	|	2
+Forestry	|	Business	|	2
+Government	|	Business	|	2
+Green Solutions	|	Business	|	2
+Human Resources	|	Business	|	2
+Logistics	|	Business	|	2
+Marketing	|	Business	|	2
+Metals	|	Business	|	2
+Careers	|	Careers	|	1
+Career Advice	|	Careers	|	2
+Career Planning	|	Careers	|	2
+College	|	Careers	|	2
+Job Fairs	|	Careers	|	2
+Job Search	|	Careers	|	2
+Nursing	|	Careers	|	2
+Resume Writing	|	Careers	|	2
+Scholarships	|	Careers	|	2
+Telecommuting	|	Careers	|	2
+US Military	|	Careers	|	2
+Vocational Training	|	Careers	|	2
+Education	|	Education	|	1
+Art History	|	Education	|	2
+College Administration	|	Education	|	2
+Distance Learning	|	Education	|	2
+English as 2nd Language	|	Education	|	2
+Graduate School	|	Education	|	2
+Homeschooling	|	Education	|	2
+Homework Study Tips	|	Education	|	2
+Language Learning	|	Education	|	2
+Online Education	|	Education	|	2
+Private School	|	Education	|	2
+Special Education	|	Education	|	2
+Studying Business	|	Education	|	2
+Electronics	|	Electronics	|	1
+Cameras	|	Electronics	|	2
+Cell Phones	|	Electronics	|	2
+Computer Peripherals	|	Electronics	|	2
+Computer Reviews	|	Electronics	|	2
+Desktops	|	Electronics	|	2
+Email	|	Electronics	|	2
+Entertainment	|	Electronics	|	2
+GPS	|	Electronics	|	2
+Home Video	|	Electronics	|	2
+Internet	|	Electronics	|	2
+Laptops	|	Electronics	|	2
+Monitors	|	Electronics	|	2
+Netbooks	|	Electronics	|	2
+Portable	|	Electronics	|	2
+Satellites	|	Electronics	|	2
+Scanners	|	Electronics	|	2
+Smartphones	|	Electronics	|	2
+Tablets	|	Electronics	|	2
+Entertainment	|	Entertainment	|	1
+Celebrity Gossip	|	Entertainment	|	2
+Comics	|	Entertainment	|	2
+Culture	|	Entertainment	|	2
+Fine Art	|	Entertainment	|	2
+Humor	|	Entertainment	|	2
+Movies	|	Entertainment	|	2
+Music	|	Entertainment	|	2
+Television	|	Entertainment	|	2
+Video Games	|	Entertainment	|	2
+Family & Parenting	|	Family & Parenting	|	1
+Adoption	|	Family & Parenting	|	2
+Babies & Toddlers	|	Family & Parenting	|	2
+Children	|	Family & Parenting	|	2
+Daycare	|	Family & Parenting	|	2
+Eldercare	|	Family & Parenting	|	2
+Family Internet	|	Family & Parenting	|	2
+Parenting Teens	|	Family & Parenting	|	2
+Parenting K-6 Kids	|	Family & Parenting	|	2
+Pregnancy	|	Family & Parenting	|	2
+Special Needs Kids	|	Family & Parenting	|	2
+Finance	|	Finance	|	1
+Banking	|	Finance	|	2
+Beginning Investing	|	Finance	|	2
+Credit Cards	|	Finance	|	2
+Financial News	|	Finance	|	2
+Financial Planning	|	Finance	|	2
+Hedge Fund	|	Finance	|	2
+Insurance	|	Finance	|	2
+Investing	|	Finance	|	2
+Mortgage	|	Finance	|	2
+Mutual Funds	|	Finance	|	2
+Options	|	Finance	|	2
+Retirement Planning	|	Finance	|	2
+Stocks	|	Finance	|	2
+Tax Planning	|	Finance	|	2
+Food & Drink	|	Food & Drink	|	1
+American Cuisine	|	Food & Drink	|	2
+Barbecues	|	Food & Drink	|	2
+Cajun	|	Food & Drink	|	2
+Chinese Cuisine	|	Food & Drink	|	2
+Cocktails	|	Food & Drink	|	2
+Coffee	|	Food & Drink	|	2
+Cooking	|	Food & Drink	|	2
+Desserts	|	Food & Drink	|	2
+Dining Out	|	Food & Drink	|	2
+Food Allergies	|	Food & Drink	|	2
+French Cuisine	|	Food & Drink	|	2
+Health Cooking	|	Food & Drink	|	2
+Italian Cuisine	|	Food & Drink	|	2
+Japanese Cuisine	|	Food & Drink	|	2
+Mexican Cuisine	|	Food & Drink	|	2
+Vegan	|	Food & Drink	|	2
+Vegetarian	|	Food & Drink	|	2
+Wine	|	Food & Drink	|	2
+Health & Fitness	|	Health & Fitness	|	1
+ADD	|	Health & Fitness	|	2
+AIDS HIV	|	Health & Fitness	|	2
+Allergies	|	Health & Fitness	|	2
+Alternative Medicine	|	Health & Fitness	|	2
+Arthritis	|	Health & Fitness	|	2
+Asthma	|	Health & Fitness	|	2
+Autism	|	Health & Fitness	|	2
+Bipolar Disorder	|	Health & Fitness	|	2
+Brain Tumor	|	Health & Fitness	|	2
+Cancer	|	Health & Fitness	|	2
+Chronic Fatigue	|	Health & Fitness	|	2
+Chronic Pain	|	Health & Fitness	|	2
+Dental Care	|	Health & Fitness	|	2
+Depression	|	Health & Fitness	|	2
+Dermatology	|	Health & Fitness	|	2
+Diabetes	|	Health & Fitness	|	2
+Epilepsy	|	Health & Fitness	|	2
+Exercise	|	Health & Fitness	|	2
+Heart Disease	|	Health & Fitness	|	2
+Incontinence	|	Health & Fitness	|	2
+Infertility	|	Health & Fitness	|	2
+Mens Health	|	Health & Fitness	|	2
+Nutrition	|	Health & Fitness	|	2
+Orthopedics	|	Health & Fitness	|	2
+Panic Anxiety	|	Health & Fitness	|	2
+Pediatrics	|	Health & Fitness	|	2
+Physical Therapy	|	Health & Fitness	|	2
+Psychology	|	Health & Fitness	|	2
+Senior Health	|	Health & Fitness	|	2
+Sexuality	|	Health & Fitness	|	2
+Sleep Disorders	|	Health & Fitness	|	2
+Smoking Cessation	|	Health & Fitness	|	2
+Substance Abuse	|	Health & Fitness	|	2
+Thyroid Disease	|	Health & Fitness	|	2
+Weight Loss	|	Health & Fitness	|	2
+Womens Health	|	Health & Fitness	|	2
+Hobbies & Interests	|	Hobbies & Interests	|	1
+Art Technology	|	Hobbies & Interests	|	2
+Arts Crafts	|	Hobbies & Interests	|	2
+Beadwork	|	Hobbies & Interests	|	2
+Bird Watching	|	Hobbies & Interests	|	2
+Board Games	|	Hobbies & Interests	|	2
+Candle Making	|	Hobbies & Interests	|	2
+Card Games	|	Hobbies & Interests	|	2
+Chess	|	Hobbies & Interests	|	2
+Cigars	|	Hobbies & Interests	|	2
+Collecting	|	Hobbies & Interests	|	2
+Comic Books	|	Hobbies & Interests	|	2
+Drawing Sketching	|	Hobbies & Interests	|	2
+Freelance Writing	|	Hobbies & Interests	|	2
+Genealogy	|	Hobbies & Interests	|	2
+Getting Published	|	Hobbies & Interests	|	2
+Guitar	|	Hobbies & Interests	|	2
+Home Recording	|	Hobbies & Interests	|	2
+Inventors	|	Hobbies & Interests	|	2
+Jewelry Making	|	Hobbies & Interests	|	2
+Magic	|	Hobbies & Interests	|	2
+Model Trains	|	Hobbies & Interests	|	2
+Needlework	|	Hobbies & Interests	|	2
+Painting	|	Hobbies & Interests	|	2
+Photography	|	Hobbies & Interests	|	2
+Radio	|	Hobbies & Interests	|	2
+Roleplaying Games	|	Hobbies & Interests	|	2
+Sci-Fi Fantasy	|	Hobbies & Interests	|	2
+Screenwriting	|	Hobbies & Interests	|	2
+Stamps Coins	|	Hobbies & Interests	|	2
+Video Computer Games	|	Hobbies & Interests	|	2
+Woodworking	|	Hobbies & Interests	|	2
+Home & Garden	|	Home & Garden	|	1
+Appliances	|	Home & Garden	|	2
+Entertaining	|	Home & Garden	|	2
+Environmental Safety	|	Home & Garden	|	2
+Gardening	|	Home & Garden	|	2
+Home Repair	|	Home & Garden	|	2
+Home Theater	|	Home & Garden	|	2
+Interior Decorating	|	Home & Garden	|	2
+Landscaping	|	Home & Garden	|	2
+Remodeling	|	Home & Garden	|	2
+Law, Gov & Politics	|	Law, Gov & Politics	|	1
+Commentary	|	Law, Gov & Politics	|	2
+Immigration	|	Law, Gov & Politics	|	2
+Legal Issues	|	Law, Gov & Politics	|	2
+Politics	|	Law, Gov & Politics	|	2
+US Government Resources	|	Law, Gov & Politics	|	2
+US Politics	|	Law, Gov & Politics	|	2
+News	|	News	|	1
+International News	|	News	|	2
+Local News	|	News	|	2
+National News	|	News	|	2
+Technology News	|	News	|	2
+Weather	|	News	|	2
+Personal Finance	|	Personal Finance	|	1
+Beginning Investing	|	Personal Finance	|	2
+Credit Debt Management	|	Personal Finance	|	2
+Financial News	|	Personal Finance	|	2
+Financial Planning	|	Personal Finance	|	2
+Insurance	|	Personal Finance	|	2
+Investing	|	Personal Finance	|	2
+Mutual Funds	|	Personal Finance	|	2
+Retirement Planning	|	Personal Finance	|	2
+Stocks	|	Personal Finance	|	2
+Tax Planning	|	Personal Finance	|	2
+Pets	|	Pets	|	1
+Aquariums	|	Pets	|	2
+Birds	|	Pets	|	2
+Cats	|	Pets	|	2
+Dogs	|	Pets	|	2
+Large Animals	|	Pets	|	2
+Reptiles	|	Pets	|	2
+Veterinary Medicine	|	Pets	|	2
+Real Estate	|	Real Estate	|	1
+Apartments	|	Real Estate	|	2
+Architects	|	Real Estate	|	2
+Buying Selling Homes	|	Real Estate	|	2
+Religion & Spirituality	|	Religion & Spirituality	|	1
+Alternative Religions	|	Religion & Spirituality	|	2
+Atheism Agnosticism	|	Religion & Spirituality	|	2
+Buddhism	|	Religion & Spirituality	|	2
+Catholicism	|	Religion & Spirituality	|	2
+Christianity	|	Religion & Spirituality	|	2
+Hinduism	|	Religion & Spirituality	|	2
+Islam	|	Religion & Spirituality	|	2
+Judaism	|	Religion & Spirituality	|	2
+Latter Day Saints	|	Religion & Spirituality	|	2
+Pagan Wiccan	|	Religion & Spirituality	|	2
+Science	|	Science	|	1
+Astrology	|	Science	|	2
+Biology	|	Science	|	2
+Botany	|	Science	|	2
+Chemistry	|	Science	|	2
+Geography	|	Science	|	2
+Geology	|	Science	|	2
+Paranormal	|	Science	|	2
+Physics	|	Science	|	2
+Space Astronomy	|	Science	|	2
+Weather	|	Science	|	2
+Shopping	|	Shopping	|	1
+Comparison	|	Shopping	|	2
+Coupons	|	Shopping	|	2
+Engines	|	Shopping	|	2
+Gifts	|	Shopping	|	2
+Society	|	Society	|	1
+Dating	|	Society	|	2
+Divorce Support	|	Society	|	2
+Ethnic Specific	|	Society	|	2
+Gay Life	|	Society	|	2
+Marriage	|	Society	|	2
+Senior Living	|	Society	|	2
+Teens	|	Society	|	2
+Weddings	|	Society	|	2
+Sports	|	Sports	|	1
+Auto Racing	|	Sports	|	2
+Baseball	|	Sports	|	2
+Bicycling	|	Sports	|	2
+Bodybuilding	|	Sports	|	2
+Boxing	|	Sports	|	2
+Canoeing Kayaking	|	Sports	|	2
+Cheerleading	|	Sports	|	2
+Climbing	|	Sports	|	2
+Cricket	|	Sports	|	2
+Figure Skating	|	Sports	|	2
+Fly Fishing	|	Sports	|	2
+Football	|	Sports	|	2
+Freshwater Fishing	|	Sports	|	2
+Game Fish	|	Sports	|	2
+Golf	|	Sports	|	2
+Horse Racing	|	Sports	|	2
+Horses	|	Sports	|	2
+Hunting Shooting	|	Sports	|	2
+Inline Skating	|	Sports	|	2
+Martial Arts	|	Sports	|	2
+Mountain Biking	|	Sports	|	2
+NASCAR Racing	|	Sports	|	2
+Olympics	|	Sports	|	2
+Paintball	|	Sports	|	2
+Power Motorcycles	|	Sports	|	2
+Pro Basketball	|	Sports	|	2
+Pro Ice Hockey	|	Sports	|	2
+Rodeo	|	Sports	|	2
+Rugby	|	Sports	|	2
+Running Jogging	|	Sports	|	2
+Sailing	|	Sports	|	2
+Saltwater Fishing	|	Sports	|	2
+Scuba Diving	|	Sports	|	2
+Skateboarding	|	Sports	|	2
+Skiing	|	Sports	|	2
+Snowboarding	|	Sports	|	2
+Surfing Bodyboarding	|	Sports	|	2
+Swimming	|	Sports	|	2
+Table Tennis	|	Sports	|	2
+Tennis	|	Sports	|	2
+Volleyball	|	Sports	|	2
+Walking	|	Sports	|	2
+Waterski Wakeboard	|	Sports	|	2
+World Soccer	|	Sports	|	2
+Wrestling	|	Sports	|	2
+Style & Fashion	|	Style & Fashion	|	1
+Accessories	|	Style & Fashion	|	2
+Beauty	|	Style & Fashion	|	2
+Body Art	|	Style & Fashion	|	2
+Clothing	|	Style & Fashion	|	2
+Fashion	|	Style & Fashion	|	2
+Jewelry	|	Style & Fashion	|	2
+Technology & Computing	|	Technology & Computing	|	1
+3-D Graphics	|	Technology & Computing	|	2
+Animation	|	Technology & Computing	|	2
+Antivirus Software	|	Technology & Computing	|	2
+C C++	|	Technology & Computing	|	2
+Cameras Camcorders	|	Technology & Computing	|	2
+Cell Phones	|	Technology & Computing	|	2
+Computer Certification	|	Technology & Computing	|	2
+Computer Networking	|	Technology & Computing	|	2
+Computer Peripherals	|	Technology & Computing	|	2
+Computer Reviews	|	Technology & Computing	|	2
+Data Centers	|	Technology & Computing	|	2
+Databases	|	Technology & Computing	|	2
+Desktop Publishing	|	Technology & Computing	|	2
+Desktop Video	|	Technology & Computing	|	2
+Email	|	Technology & Computing	|	2
+Graphics Software	|	Technology & Computing	|	2
+Home Video	|	Technology & Computing	|	2
+Internet Technology	|	Technology & Computing	|	2
+Java	|	Technology & Computing	|	2
+JavaScript	|	Technology & Computing	|	2
+Linux	|	Technology & Computing	|	2
+Mac OS	|	Technology & Computing	|	2
+Mac Support	|	Technology & Computing	|	2
+MP3 MIDI	|	Technology & Computing	|	2
+Net Conferencing	|	Technology & Computing	|	2
+Net for Beginners	|	Technology & Computing	|	2
+Network Security	|	Technology & Computing	|	2
+Palmtops PDAs	|	Technology & Computing	|	2
+PC Support	|	Technology & Computing	|	2
+Portable	|	Technology & Computing	|	2
+Shareware Freeware	|	Technology & Computing	|	2
+Unix	|	Technology & Computing	|	2
+Visual Basic	|	Technology & Computing	|	2
+Web Clip Art	|	Technology & Computing	|	2
+Web Design	|	Technology & Computing	|	2
+Web Search	|	Technology & Computing	|	2
+Windows	|	Technology & Computing	|	2
+Travel	|	Travel	|	1
+Adventure Travel	|	Travel	|	2
+Africa	|	Travel	|	2
+Air Travel	|	Travel	|	2
+Australia New Zealand	|	Travel	|	2
+Bed Breakfasts	|	Travel	|	2
+Budget Travel	|	Travel	|	2
+Business Travel	|	Travel	|	2
+Camping	|	Travel	|	2
+Canada	|	Travel	|	2
+Caribbean	|	Travel	|	2
+Cruises	|	Travel	|	2
+Eastern Europe	|	Travel	|	2
+Europe	|	Travel	|	2
+France	|	Travel	|	2
+Greece	|	Travel	|	2
+Honeymoons Getaways	|	Travel	|	2
+Hotels	|	Travel	|	2
+Italy	|	Travel	|	2
+Japan	|	Travel	|	2
+Mexico Central America	|	Travel	|	2
+National Parks	|	Travel	|	2
+South America	|	Travel	|	2
+Spas	|	Travel	|	2
+Theme Parks	|	Travel	|	2
+Traveling with Kids	|	Travel	|	2
+United Kingdom	|	Travel	|	2
+United States	|	Travel	|	2

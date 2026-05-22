@@ -1,0 +1,27 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+*.egg-info/
+dist/
+build/
+.env
+.venv/
+venv/
+
+# Generated data files (reproduce by running prepare_iab_data.py + taxonomy_iab.py)
+iab_data/iab_dictionary.txt
+iab_data/iab_hash_category.txt
+iab_data/iab_hash_related.txt
+iab_data/iab_url_map.txt
+iab_data/iab_arr_url.txt
+iab_data/iab_doc_categories.txt
+iab_data/iab_word2_pairs.txt
+iab_data/iab_topWords.txt
+iab_data/iab_wordGroups.txt
+iab_data/iab_smallDictionary.txt
+iab_data/iab_connectedTopWords.txt
+iab_data/iab_connectedByTopWord.txt
+iab_data/iab_missingConnections.txt
+iab_data/iab_assignedCategories.txt
+iab_data/iab_doc_classification.txt
