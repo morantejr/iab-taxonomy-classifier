@@ -1,6 +1,6 @@
 # IAB Taxonomy Classifier
 
-A token-based taxonomy classifier that assigns [IAB Content Taxonomy](https://iabtechlab.com/standards/content-taxonomy/) categories to text documents using word co-occurrence statistics and similarity scoring -- no neural networks or LLM API calls required.
+A token-based taxonomy classifier that assigns [IAB Content Taxonomy](https://iabtechlab.com/standards/content-taxonomy/) categories to text documents using word co-occurrence statistics and similarity scoring, no neural networks or LLM API calls required.
 
 ## Inspiration
 
